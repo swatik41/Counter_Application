@@ -1,0 +1,20 @@
+.counter-container{
+    background-color: cadetblue;
+    text-decoration-color: blue;
+
+    text-align: center;
+    border: 1px solid hsl(25, 69%, 69%);
+    margin: 50px;
+    padding: 5px;
+    border-radius: 8px;
+
+}
+.counter-container button{
+    background-color: coral;
+}
+.counter-container button:hover{
+    background-color: darkgreen;
+    
+
+}
+
